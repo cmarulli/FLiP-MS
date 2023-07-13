@@ -1,0 +1,608 @@
+Protein	Gene	Cluster	Complex	Detected	Abundance_Change	LiP_Change	FiLiP_Change	high_confidence_FiLiP	Gcn5_target	SAGA_transcript
+P40018	SMB1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40204	SMX2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE
+P43321	SMD3	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P54999	SMX3	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02260	SMD1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+Q06217	SMD2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12330	SME1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38203	LSM2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40070	LSM4	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P40089	LSM5	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P47093	LSM8	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53905	LSM7	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE
+P57743	LSM3	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06406	LSM6	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P19735	PRP6	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P20053	PRP4	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+P23394	PRP28	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P32639	BRR2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P33334	PRP8	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P36048	SNU114	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38282	SPP381	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39990	SNU13	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P43589	SAD1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P49704	PRP31	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q00723	PRP38	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03338	PRP3	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06819	DIB1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12368	SNU23	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12420	SNU66	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P19736	PRP9	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32524	PRP21	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40565	IST3	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40567	MSL1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P46947	BUD13	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P49955	HSH155	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02554	CUS1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04693	RSE1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q07350	PRP11	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q08963	LEA1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47017	LSM1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25644	PAT1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q06132	SGD1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12099	FAL1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53738	TRM112	20	MTQ2-TRM112 eRF1 methyltransferase complex|1|2;BUD23-TRM112 methyltransferase complex|1|2;TRM9-TRM112 methyltransferase complex|1|2;TRM11-TRM112 tRNA (m2G10) methyltransferase complex|0|0	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q03920	MTQ2	20	MTQ2-TRM112 eRF1 methyltransferase complex|1|2;BUD23-TRM112 methyltransferase complex|1|2;TRM9-TRM112 methyltransferase complex|1|2;TRM11-TRM112 tRNA (m2G10) methyltransferase complex|0|0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P02994	TEF1	39	Elongation Factor eEF1 complex, variant TEF4|3|3;Elongation Factor eEF1 complex, variant CAM1|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P32471	EFB1	39	Elongation Factor eEF1 complex, variant TEF4|3|3;Elongation Factor eEF1 complex, variant CAM1|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P36008	TEF4	39	Elongation Factor eEF1 complex, variant TEF4|3|3;Elongation Factor eEF1 complex, variant CAM1|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P32521	PAN1	17	PAN1 actin cytoskeleton-regulatory complex|2|3;SLAC complex|2|2	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	TRUE
+P32790	SLA1	17	PAN1 actin cytoskeleton-regulatory complex|2|3;SLAC complex|2|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P39013	END3	17	PAN1 actin cytoskeleton-regulatory complex|2|3;SLAC complex|2|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P07260	CDC33	37	Eukaryotic translation initiation factor 4F complex, variant TIF4631|3|3;Eukaryotic translation initiation factor 4F complex, variant TIF4632|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P10081	TIF1	37	Eukaryotic translation initiation factor 4F complex, variant TIF4631|3|3;Eukaryotic translation initiation factor 4F complex, variant TIF4632|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P39935	TIF4631	37	Eukaryotic translation initiation factor 4F complex, variant TIF4631|3|3;Eukaryotic translation initiation factor 4F complex, variant TIF4632|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P39936	TIF4632	37	Eukaryotic translation initiation factor 4F complex, variant TIF4631|3|3;Eukaryotic translation initiation factor 4F complex, variant TIF4632|3|3	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P23644	TOM40	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P33448	TOM6	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P49334	TOM22	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53507	TOM7	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P80967	TOM5	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P07213	TOM70	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P35180	TOM20	94	TOM40 mitochondrial outer membrane translocase holocomplex|1|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P06244	TPK1	43	cAMP-dependent protein kinase complex variant 4|1|3;cAMP-dependent protein kinase complex variant 5|1|3;cAMP-dependent protein kinase complex variant 6|1|3;cAMP-dependent protein kinase complex variant 1|1|2;cAMP-dependent protein kinase complex variant 2|1|2;cAMP-dependent protein kinase complex variant 3|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P07278	BCY1	43	cAMP-dependent protein kinase complex variant 4|1|3;cAMP-dependent protein kinase complex variant 5|1|3;cAMP-dependent protein kinase complex variant 6|1|3;cAMP-dependent protein kinase complex variant 1|1|2;cAMP-dependent protein kinase complex variant 2|1|2;cAMP-dependent protein kinase complex variant 3|1|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P06245	TPK2	43	cAMP-dependent protein kinase complex variant 4|1|3;cAMP-dependent protein kinase complex variant 5|1|3;cAMP-dependent protein kinase complex variant 6|1|3;cAMP-dependent protein kinase complex variant 1|1|2;cAMP-dependent protein kinase complex variant 2|1|2;cAMP-dependent protein kinase complex variant 3|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P00127	QCR6	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P00128	QCR7	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P00163	COB	98	Mitochondrial respiratory chain complex III|2|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P07143	CYT1	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P07256	COR1	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P07257	QCR2	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P08067	RIP1	98	Mitochondrial respiratory chain complex III|2|10	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P08525	QCR8	98	Mitochondrial respiratory chain complex III|2|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P22289	QCR9	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P37299	QCR10	98	Mitochondrial respiratory chain complex III|2|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P05986	TPK3	43	cAMP-dependent protein kinase complex variant 4|1|3;cAMP-dependent protein kinase complex variant 5|1|3;cAMP-dependent protein kinase complex variant 6|1|3;cAMP-dependent protein kinase complex variant 1|1|2;cAMP-dependent protein kinase complex variant 2|1|2;cAMP-dependent protein kinase complex variant 3|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P31688	TPS2	38	Trehalose-6-phosphate synthase/phosphatase variant 2|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P38426	TPS3	38	Trehalose-6-phosphate synthase/phosphatase variant 2|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q00764	TPS1	38	Trehalose-6-phosphate synthase/phosphatase variant 2|1|3	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+P38427	TSL1	38	Trehalose-6-phosphate synthase/phosphatase variant 2|1|3	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	TRUE
+P32381	ARP2	70	Arp2/3 complex|2|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P33204	ARC19	70	Arp2/3 complex|2|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38328	ARC40	70	Arp2/3 complex|2|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40518	ARC15	70	Arp2/3 complex|2|7	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P47117	ARP3	70	Arp2/3 complex|2|7	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P53731	ARC35	70	Arp2/3 complex|2|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05933	ARC18	70	Arp2/3 complex|2|7	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32494	NGG1	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02336	ADA2	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03330	GCN5	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P20424	SRP54	83	Signal recognition particle|1|6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P29478	SEC65	83	Signal recognition particle|1|6	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P32342	SRP21	83	Signal recognition particle|1|6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P38687	SRP68	83	Signal recognition particle|1|6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38688	SRP72	83	Signal recognition particle|1|6	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38985	SRP14	83	Signal recognition particle|1|6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P06844	SPT3	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25554	SGF29	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P32657	CHD1	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	TRUE	TRUE	FALSE	TRUE	TRUE
+P35177	SPT7	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38129	TAF5	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38811	TRA1	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38915	SPT8	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P50102	UBP8	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P50875	SPT20	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P53040	TAF6	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53165	SGF73	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+Q03067	SGF11	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q03761	TAF12	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q05027	TAF9	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12030	TAF10	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12060	HFI1	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q6WNK7	SUS1	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32608	RTG2	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P15646	NOP1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12460	NOP56	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q12499	NOP58	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P28007	GAR1	99	Box H/ACA ribonucleoprotein complex|2|4	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32495	NHP2	99	Box H/ACA ribonucleoprotein complex|2|4	TRUE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE
+P33322	CBF5	99	Box H/ACA ribonucleoprotein complex|2|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q6Q547	NOP10	99	Box H/ACA ribonucleoprotein complex|2|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q12463	TRM11	20	MTQ2-TRM112 eRF1 methyltransferase complex|1|2;BUD23-TRM112 methyltransferase complex|1|2;TRM9-TRM112 methyltransferase complex|1|2;TRM11-TRM112 tRNA (m2G10) methyltransferase complex|0|0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32617	IES6	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE
+P35189	TAF14	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P40060	IES5	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40154	IES2	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P43579	IES1	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53115	INO80	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53946	ARP5	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P60010	ACT1	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P80428	ARP4	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q03435	NHP10	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03940	RVB1	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08561	IES4	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12345	IES3	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12386	ARP8	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q12464	RVB2	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P36132	KAE1	78	KEOPS complex|1|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P46984	GON7	78	KEOPS complex|1|5	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53323	BUD32	78	KEOPS complex|1|5	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q03705	CGI121	78	KEOPS complex|1|5	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q3E833	PCC1	78	KEOPS complex|1|5	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	TRUE
+P36104	SWD2	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25627	BUD23	20	MTQ2-TRM112 eRF1 methyltransferase complex|1|2;BUD23-TRM112 methyltransferase complex|1|2;TRM9-TRM112 methyltransferase complex|1|2;TRM11-TRM112 tRNA (m2G10) methyltransferase complex|0|0	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P49957	TRM9	20	MTQ2-TRM112 eRF1 methyltransferase complex|1|2;BUD23-TRM112 methyltransferase complex|1|2;TRM9-TRM112 methyltransferase complex|1|2;TRM11-TRM112 tRNA (m2G10) methyltransferase complex|0|0	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P29468	PAP1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32598	GLC7	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P35728	MPE1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39927	PTI1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P42073	REF2	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P42841	PFS2	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P45976	FIP1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53538	SSU72	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q01329	PTA1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q06102	YTH1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06224	YSH1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06632	CFT1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08553	SYC1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12102	CFT2	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P02309	HHF1	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38204	RRN10	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53437	RRN9	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P61830	HHT1	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	TRUE	TRUE	TRUE	FALSE	FALSE	TRUE	TRUE
+Q02983	RRN5	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q08747	UAF30	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P09938	RNR2	65	Ribonucleoside-diphosphate reductase variant 2|2|4;Ribonucleoside-diphosphate reductase variant 1|2|3	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P21524	RNR1	65	Ribonucleoside-diphosphate reductase variant 2|2|4;Ribonucleoside-diphosphate reductase variant 1|2|3	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P49723	RNR4	65	Ribonucleoside-diphosphate reductase variant 2|2|4;Ribonucleoside-diphosphate reductase variant 1|2|3	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P21672	RNR3	65	Ribonucleoside-diphosphate reductase variant 2|2|4;Ribonucleoside-diphosphate reductase variant 1|2|3	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P13393	SPT15	35	SAGA complex|1|20;SLIK (SAGA-like) complex|0| 0	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P09547	SWI1	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P18480	SNF5	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P18888	SNF6	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P22082	SNF2	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	TRUE	TRUE	FALSE	FALSE	TRUE	FALSE
+P32591	SWI3	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38956	SNF11	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P43554	SWP82	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53330	RTT102	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53628	SNF12	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05123	ARP9	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12406	ARP7	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08273	HRT1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02647	DYN2	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P06779	RAD7	9	Nucleotide excision repair factor 4 complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P31244	RAD16	9	Nucleotide excision repair factor 4 complex|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53202	CUL3	9	Nucleotide excision repair factor 4 complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03071	ELC1	9	Nucleotide excision repair factor 4 complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P16140	VMA2	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P17255	VMA1	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P22203	VMA4	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P23968	VMA16	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P25515	VMA3	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P31412	VMA5	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P32366	VMA6	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32610	VMA8	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32842	VMA11	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P37296	STV1	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39111	VMA7	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P41807	VMA13	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P48836	VMA10	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q3E7B6	VMA9	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32563	VPH1	40	Vacuolar proton translocating ATPase complex, vacuole variant|8|14;Vacuolar proton translocating ATPase complex, Golgi variant|7|14	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P07261	GCR1	7	RAP1-GCR1-GCR2 transcription activation complex|1|3;Telosome|1|3;RAP1-GCR1 transcription activation complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P11938	RAP1	7	RAP1-GCR1-GCR2 transcription activation complex|1|3;Telosome|1|3;RAP1-GCR1 transcription activation complex|1|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q01722	GCR2	7	RAP1-GCR1-GCR2 transcription activation complex|1|3;Telosome|1|3;RAP1-GCR1 transcription activation complex|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P36047	SDS22	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P43587	YPI1	3	SDS22-GLC7-YPI1 phosphatase complex|1|3;SDS22-GLC7 phosphatase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P09624	LPD1	16	Mitochondrial pyruvate dehydrogenase complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P02829	HSP82	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P0CE41	HAP1	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P10591	SSA1	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P10592	SSA2	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P15108	HSC82	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P25491	YDJ1	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P25567	SRO9	96	HMC complex|6|7;HAP1 transcriptional repressor complex, SSA1 variant|3|4;HAP1 transcriptional repressor complex, SSA2 variant|3|4	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	TRUE
+P16474	KAR2	33	Luminal surveillance complex|1|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q05787	HRD3	33	Luminal surveillance complex|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q99220	YOS9	33	Luminal surveillance complex|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q00416	SEN1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32628	RAD23	13	Peptide:N-glycanase-Rad23 complex|1|2;CDC48-CDC23-UFD2 complex|1|2;Nucleotide excision repair factor 2 complex|1|2	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q02890	PNG1	13	Peptide:N-glycanase-Rad23 complex|1|2;CDC48-CDC23-UFD2 complex|1|2;Nucleotide excision repair factor 2 complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25694	CDC48	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P54860	UFD2	13	Peptide:N-glycanase-Rad23 complex|1|2;CDC48-CDC23-UFD2 complex|1|2;Nucleotide excision repair factor 2 complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P15303	SEC23	10	COPII vesicle coat complex|3|4;SEC23-LST1 COPII cargo recruitment complex|1|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38810	SFB3	10	COPII vesicle coat complex|3|4;SEC23-LST1 COPII cargo recruitment complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P14832	CPR1	1	SET3C histone deacetylase complex|1|7	TRUE	TRUE	FALSE	TRUE	TRUE	FALSE	TRUE
+P25357	SNT1	1	SET3C histone deacetylase complex|1|7	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P36124	SET3	1	SET3C histone deacetylase complex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38262	SIF2	1	SET3C histone deacetylase complex|1|7	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40480	HOS4	1	SET3C histone deacetylase complex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53096	HOS2	1	SET3C histone deacetylase complex|1|7	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53685	HST1	1	SET3C histone deacetylase complex|1|7	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12446	LAS17	17	PAN1 actin cytoskeleton-regulatory complex|2|3;SLAC complex|2|2	TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE
+P23594	PPH21	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q12461	RRD2	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P23595	PPH22	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P46676	SUM1	1	SET3C histone deacetylase complex|1|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12192	RFM1	1	SET3C histone deacetylase complex|1|7	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+P06787	CMD1	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	TRUE	TRUE	FALSE	TRUE	TRUE	FALSE	TRUE
+P32380	SPC110	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P33419	SPC29	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P36094	SPC42	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53865	CNM67	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P34241	URB1	63	NOP8 60s ribosome pre-assembly complex|1|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P47108	URB2	63	NOP8 60s ribosome pre-assembly complex|1|5	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P53734	DBP6	63	NOP8 60s ribosome pre-assembly complex|1|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05942	RSA3	63	NOP8 60s ribosome pre-assembly complex|1|5	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q08287	NOP8	63	NOP8 60s ribosome pre-assembly complex|1|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P0CS90	SSC1	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	TRUE
+P08964	MYO1	5	Myosin class II complex|1|3;Myosin class V complex, MYO4 variant|1|2;MIH complex|1|2;Myosin class V complex, MYO2 variant|1|1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53141	MLC1	5	Myosin class II complex|1|3;Myosin class V complex, MYO4 variant|1|2;MIH complex|1|2;Myosin class V complex, MYO2 variant|1|1	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q06580	MLC2	5	Myosin class II complex|1|3;Myosin class V complex, MYO4 variant|1|2;MIH complex|1|2;Myosin class V complex, MYO2 variant|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04439	MYO5	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P36006	MYO3	2	Spindle pole body central plaque complex|1|4;Myosin class I complex, MYO5 variant|1|2;Myosin class I complex, MYO3 variant|1|2;Myosin class V complex, MYO4 variant|1|1;Myosin class V complex, MYO2 variant|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32492	MYO4	5	Myosin class II complex|1|3;Myosin class V complex, MYO4 variant|1|2;MIH complex|1|2;Myosin class V complex, MYO2 variant|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P05750	RPS3	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P05756	RPS13	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P05759	RPS31	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P25443	RPS2	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P26783	RPS5	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38011	ASC1	81	40S cytosolic small ribosomal subunit|8|9	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38701	RPS20	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P48589	RPS12	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q01855	RPS15	81	40S cytosolic small ribosomal subunit|8|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P02406	RPL28	93	60S cytosolic large ribosomal subunit|5|10	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P04650	RPL39	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P05317	RPP0	93	60S cytosolic large ribosomal subunit|5|10	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P05747	RPL29	93	60S cytosolic large ribosomal subunit|5|10	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P14120	RPL30	93	60S cytosolic large ribosomal subunit|5|10	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P14126	RPL3	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P26321	RPL5	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38061	RPL32	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P41805	RPL10	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P49167	RPL38	93	60S cytosolic large ribosomal subunit|5|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P20448	HCA4	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P25586	KRR1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+P27476	NSR1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P33201	MRT4	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P33750	SOF1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P34078	LTV1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P34247	UTP11	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P35194	UTP20	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P36009	DHR2	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P36144	UTP30	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38333	ENP1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38712	RRP3	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38719	DBP8	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39985	POL5	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40055	UTP7	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40079	LCP5	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+P40498	UTP25	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P45818	ROK1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P47077	NOP9	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53131	PRP43	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53251	SLX9	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53317	NOP19	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P53335	PXR1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P53743	ESF2	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53914	KRE33	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q03532	HAS1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q04217	ECM16	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE
+Q04500	UTP14	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05022	RRP5	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+Q05498	FCF1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q06106	MRD1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q06287	EMG1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q06344	ESF1	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q06506	RRP9	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q07623	NOP6	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q08492	BUD21	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12136	SAS10	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE
+Q12247	FYV7	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12339	UTP23	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12481	RRP36	34	Small ribosomal subunit processome, variant 1|6|47;Small ribosomal subunit processome, variant 2|6|47;Small ribosomal subunit processome, variant 3|6|47;Box C/D snoRNP complex|3| 4;U4/U6.U5 tri-snRNP complex|1| 1;U4 snRNP|1| 1;U4/U6 snRNP|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P02294	HTB2	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+P04912	HTA2	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P02293	HTB1	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE	FALSE
+P04911	HTA1	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12692	HTZ1	12	RNA polymerase I upstream activating factor complex|1|6;Nucleosome, variant HTA2-HTB2|1|4;Nucleosome, variant HTA2-HTB1|1|4;Nucleosome, variant HTA1-HTB1|1|4;Nucleosome, variant HTZ1-HTB1|1|4;Nucleosome, variant HTZ1-HTB2|1|4;Nucleosome, variant HTA1-HTB2|1|4	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q12280	IQG1	5	Myosin class II complex|1|3;Myosin class V complex, MYO4 variant|1|2;MIH complex|1|2;Myosin class V complex, MYO2 variant|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P14682	CDC34	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P52286	SKP1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+Q03899	YDR131C	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12018	CDC53	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P14907	NSP1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P20676	NUP1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P32499	NUP2	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P32500	NDC1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P34077	NIC96	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P35729	NUP120	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P36161	NUP133	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38181	NUP170	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39685	POM152	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P39705	NUP60	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	TRUE	TRUE	TRUE	TRUE
+P40064	NUP157	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40066	GLE2	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40368	NUP82	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40457	MLP2	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40477	NUP159	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P46673	NUP85	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47054	NUP192	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P48837	NUP57	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P49686	NUP42	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P52593	NUP188	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P52891	NUP84	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53011	SEH1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02199	NUP49	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q02455	MLP1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+Q02629	NUP100	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE
+Q02630	NUP116	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03790	NUP53	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04491	SEC13	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05166	ASM4	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12315	GLE1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12445	POM34	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+O74700	TIM9	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P32830	TIM12	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47045	TIM54	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P87108	TIM10	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q08749	TIM18	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12328	TIM22	79	TIM22 mitochondrial inner membrane twin-pore carrier translocase complex|2|6;TIM9-TIM10-TIM12 mitochondrial intermembrane space protein transporter complex|2|3;TIM9-TIM10 mitochondrial intermembrane space protein transporter complex|2|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P14736	RAD4	13	Peptide:N-glycanase-Rad23 complex|1|2;CDC48-CDC23-UFD2 complex|1|2;Nucleotide excision repair factor 2 complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P21374	ISY1	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P24384	PRP22	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25337	BUD31	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P28004	PRP45	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P28320	YJU2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32523	PRP19	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38241	ECM2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38302	NTC20	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40968	CDC40	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P52868	CWC23	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53277	SYF2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53333	CWC22	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53769	CWC24	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53854	CWC25	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02521	SPP2	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02770	CWC27	19	LSM1-7-PAT1 complex|3| 8;U4/U6.U5 tri-snRNP complex|2|28;U4/U6 snRNP|2|17;U6 snRNP complex|2| 7;LSM2-8 complex|2| 7;LSM1-7 complex|2| 7;LSM2-7 complex|2| 6	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32074	SEC21	95	COPI vesicle coat complex|3|7	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P40509	SEC28	95	COPI vesicle coat complex|3|7	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+P41810	SEC26	95	COPI vesicle coat complex|3|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P41811	SEC27	95	COPI vesicle coat complex|3|7	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	TRUE
+P43621	RET2	95	COPI vesicle coat complex|3|7	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P53600	RET3	95	COPI vesicle coat complex|3|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53622	COP1	95	COPI vesicle coat complex|3|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P07703	RPC40	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P10964	RPA190	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P20434	RPB5	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P20435	RPO26	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P20436	RPB8	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P22138	RPA135	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P22139	RPB10	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P28000	RPC19	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P32529	RPA12	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40422	RPC10	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P46669	RPA43	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	TRUE	FALSE
+P47006	RPA34	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P50106	RPA14	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q01080	RPA49	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P06700	SIR2	6	RENT complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47035	NET1	6	RENT complex|1|3	TRUE	FALSE	FALSE	TRUE	FALSE	TRUE	FALSE
+Q00684	CDC14	6	RENT complex|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40005	GIM4	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P46988	PFD1	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P48363	PAC10	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P52553	YKE2	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P53900	GIM3	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q04493	GIM5	90	Prefoldin co-chaperone complex|4|6	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P25342	CDC10	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32457	CDC3	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P32458	CDC11	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32468	CDC12	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q07657	SHS1	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P14164	ABF1	9	Nucleotide excision repair factor 4 complex|1|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P25293	NAP1	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P53890	BNI5	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12263	GIN4	56	Gin4 serine/threonine kinase complex|3|8;Septin complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P36122	BCH2	89	Exomer complex|1|5	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40955	CHS6	89	Exomer complex|1|5	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q05029	BCH1	89	Exomer complex|1|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08754	BUD7	89	Exomer complex|1|5	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12114	CHS5	89	Exomer complex|1|5	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+O13539	THP2	88	TREX complex|2|7	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P17629	HPR1	88	TREX complex|2|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P33441	MFT1	88	TREX complex|2|7	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53552	THO2	88	TREX complex|2|7	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53851	TEX1	88	TREX complex|2|7	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q07478	SUB2	88	TREX complex|2|7	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q12159	YRA1	88	TREX complex|2|7	TRUE	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE
+P33328	SNC2	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03322	TLG1	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04338	VTI1	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08144	TLG2	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P31109	SNC1	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P36015	YKT6	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12255	NYV1	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P31377	SYN8	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32854	PEP12	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32867	SSO1	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P40357	SEC9	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04359	SPO20	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39926	SSO2	11	Vesicular SNARE complex SSO2-SEC9-SNC2|1|3;Vesicular SNARE complex SSO2-SEC9-SNC1|1|3	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P47128	EAF6	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P06701	SIR3	6	RENT complex|1|3	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P11978	SIR4	6	RENT complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P06780	RHO1	21	1,3-beta-D-glucan synthase complex, FKS1-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS2-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS3-RHO1 variant|1|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P38631	FKS1	21	1,3-beta-D-glucan synthase complex, FKS1-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS2-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS3-RHO1 variant|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40989	GSC2	21	1,3-beta-D-glucan synthase complex, FKS1-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS2-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS3-RHO1 variant|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32897	TIM23	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39515	TIM17	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P53220	TIM21	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q02776	TIM50	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q02889	MGR2	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P36147	PAM17	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38523	MGE1	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	TRUE
+P42949	PAM16	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q01852	TIM44	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q07914	PAM18	23	TIM23 mitochondrial inner membrane pre-sequence translocase complex, motor variant|2|9;COX1 pre-assembly complex|1|1;Endonuclease SceI|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P06103	PRT1	47	Eukaryotic translation initiation factor 3 core complex|4|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32497	NIP1	47	Eukaryotic translation initiation factor 3 core complex|4|5	TRUE	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE
+P38249	RPG1	47	Eukaryotic translation initiation factor 3 core complex|4|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P40217	TIF34	47	Eukaryotic translation initiation factor 3 core complex|4|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q04067	TIF35	47	Eukaryotic translation initiation factor 3 core complex|4|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P53861	ELA1	9	Nucleotide excision repair factor 4 complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P31383	TPD3	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q00362	CDC55	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38903	RTS1	22	Serine/threonine-protein phosphatase PP2A variant 1|1|3;Serine/threonine-protein phosphatase PP2A variant 2|1|3;TAP42-RRD2-PPH21 phosphatase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P31539	HSP104	91	GET4-GET5 transmembrane domain recognition complex|3|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P38276	YBR137W	91	GET4-GET5 transmembrane domain recognition complex|3|5	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12118	SGT2	91	GET4-GET5 transmembrane domain recognition complex|3|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q12125	GET4	91	GET4-GET5 transmembrane domain recognition complex|3|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12285	MDY2	91	GET4-GET5 transmembrane domain recognition complex|3|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P25632	RSC6	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32597	STH1	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32832	NPL6	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38210	LDB7	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38781	RSC30	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P43609	RSC8	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	TRUE
+Q02206	RSC4	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+Q03124	RSC9	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q06168	SFH1	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06488	RSC2	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06639	RSC3	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q07979	RSC58	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q9URQ5	HTL1	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53236	RSC1	8	RSC complex variant RSC2|2|16;RSC complex variant RSC1|2|16	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25298	RNA14	60	mRNA cleavage factor complex CF I|1|9	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P25299	RNA15	60	mRNA cleavage factor complex CF I|1|9	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39081	PCF11	60	mRNA cleavage factor complex CF I|1|9	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q08685	CLP1	60	mRNA cleavage factor complex CF I|1|9	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q99383	HRP1	60	mRNA cleavage factor complex CF I|1|9	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P29539	RIF1	7	RAP1-GCR1-GCR2 transcription activation complex|1|3;Telosome|1|3;RAP1-GCR1 transcription activation complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06208	RIF2	7	RAP1-GCR1-GCR2 transcription activation complex|1|3;Telosome|1|3;RAP1-GCR1 transcription activation complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53201	SWC4	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE	FALSE
+P53930	YAF9	30	INO80 chromatin remodeling complex|2|15;Swr1 chromatin remodelling complex|1| 6;NuA4 histone acetyltransferase complex|1| 5;NuA3 histone acetyltransferase complex|1| 2;Transcription factor TFIIF complex|1| 1;SWI/SNF chromatin remodelling complex|1| 1;General transcription factor complex TFIID|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P12612	TCP1	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39076	CCT2	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P39077	CCT3	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39078	CCT4	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P39079	CCT6	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40413	CCT5	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P42943	CCT7	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P47079	CCT8	52	Chaperonin-containing T-complex|3|8	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+O13563	RPN13	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+O94742	SEM1	72	26S Proteasome complex|13|33	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P21242	PRE10	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P21243	SCL1	72	26S Proteasome complex|13|33	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+P22141	PRE1	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P23638	PRE9	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P23639	PRE8	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P23724	PRE7	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P25043	PUP1	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P25451	PUP3	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P30656	PRE2	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P30657	PRE4	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32379	PUP2	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32496	RPN12	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P32565	RPN2	72	26S Proteasome complex|13|33	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P33297	RPT5	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P33298	RPT3	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P33299	RPT1	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38624	PRE3	72	26S Proteasome complex|13|33	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38764	RPN1	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38886	RPN10	72	26S Proteasome complex|13|33	TRUE	FALSE	FALSE	TRUE	TRUE	FALSE	FALSE
+P40016	RPN3	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P40302	PRE5	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P40303	PRE6	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P40327	RPT2	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P43588	RPN11	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P53549	RPT4	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q01939	RPT6	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+Q04062	RPN9	72	26S Proteasome complex|13|33	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q06103	RPN7	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q08723	RPN8	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+Q12250	RPN5	72	26S Proteasome complex|13|33	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q12377	RPN6	72	26S Proteasome complex|13|33	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P20606	SAR1	10	COPII vesicle coat complex|3|4;SEC23-LST1 COPII cargo recruitment complex|1|2	TRUE	TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+P38968	SEC31	10	COPII vesicle coat complex|3|4;SEC23-LST1 COPII cargo recruitment complex|1|2	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P40482	SEC24	10	COPII vesicle coat complex|3|4;SEC23-LST1 COPII cargo recruitment complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P04051	RPO31	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P17890	RPC31	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P22276	RET1	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P25441	RPC53	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P32349	RPC82	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P32910	RPC34	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P35718	RPC25	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P36121	RPC37	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47076	RPC17	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04307	RPC11	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P04050	RPO21	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P08518	RPB2	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P16370	RPB3	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P27999	RPB9	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38902	RPB11	31	DNA-directed RNA polymerase III complex|5|17;DNA-directed RNA Polymerase I complex|5|14;DNA-directed RNA polymerase II complex|3|10	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+P29547	CAM1	39	Elongation Factor eEF1 complex, variant TEF4|3|3;Elongation Factor eEF1 complex, variant CAM1|3|3	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P33755	NPL4	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P53044	UFD1	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q04952	FKS3	21	1,3-beta-D-glucan synthase complex, FKS1-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS2-RHO1 variant|1|2;1,3-beta-D-glucan synthase complex, FKS3-RHO1 variant|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P31382	PMT2	36	PMT1-PMT2 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2;PMT1-PMT3 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+P33775	PMT1	36	PMT1-PMT2 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2;PMT1-PMT3 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2	TRUE	FALSE	TRUE	TRUE	FALSE	FALSE	FALSE
+P47190	PMT3	36	PMT1-PMT2 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2;PMT1-PMT3 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P52867	PMT5	36	PMT1-PMT2 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2;PMT1-PMT3 dolichyl-phosphate-mannose-protein mannosyltransferase complex|1|2	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04311	VMS1	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38307	DER1	33	Luminal surveillance complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03714	USA1	33	Luminal surveillance complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q04228	UBX2	33	Luminal surveillance complex|1|3	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	TRUE
+Q08109	HRD1	33	Luminal surveillance complex|1|3	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P12695	LAT1	16	Mitochondrial pyruvate dehydrogenase complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P16387	PDA1	16	Mitochondrial pyruvate dehydrogenase complex|2|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P16451	PDX1	16	Mitochondrial pyruvate dehydrogenase complex|2|5	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P32473	PDB1	16	Mitochondrial pyruvate dehydrogenase complex|2|5	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P38164	SEA4	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38742	NPR3	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39923	NPR2	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+P47170	IML1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q03897	MTC5	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q08281	RTC1	4	Nuclear pore complex|8|32;Cytoplasmic dynein complex|1| 1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P07834	CDC4	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P24814	GRR1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q05930	MDM30	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q04511	UFO1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P47005	DAS1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P39014	MET30	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q08496	DIA2	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q06479	YLR352W	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P38352	SAF1	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12347	HRT3	32	SCF-Ydr131c ubiquitin ligase complex|1|5;SCF-Cdc4 ubiquitin ligase complex|1|5;SCF-Grr1 ubiquitin ligase complex|1|5;SCF-Mdm30 ubiquitin ligase complex|1|5;SCF-Ufo1 ubiquitin ligase complex|1|5;SCF-Das1 ubiquitin ligase complex|1|5;SCF-Met30 ubiquitin ligase complex|1|5;SCF-Dia2 ubiquitin ligase complex|1|5;SCF-Ylr352w ubiquitin ligase complex|1|5;SCF-Saf1 ubiquitin ligase complex|1|5;SCF-Hrt3 ubiquitin ligase complex|1|5;RAVE complex|1|1;CBF3 complex|1|1	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q04781	RKR1	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q05468	RQC1	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+Q12532	RQC2	29	Ribosome quality control complex|1|6;CDC48-NPL4-UFD1 AAA ATPase complex|1|3;CDC48-NPL4-VMS1 AAA ATPase complex|1|3;CDC48-CDC23-UFD2 complex|1|1	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P00830	ATP2	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	FALSE
+P00854	ATP6	104	Mitochondrial proton-transporting ATP synthase complex|2|17	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P00856	ATP8	104	Mitochondrial proton-transporting ATP synthase complex|2|17	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE
+P05626	ATP4	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P07251	ATP1	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	TRUE	TRUE	FALSE	TRUE
+P09457	ATP5	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P21306	ATP15	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P30902	ATP7	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P38077	ATP3	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P61829	OLI1	104	Mitochondrial proton-transporting ATP synthase complex|2|17	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
+P81449	TIM11	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P81450	ATP18	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+P81451	ATP19	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q06405	ATP17	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12165	ATP16	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	TRUE	FALSE	FALSE	FALSE	FALSE
+Q12233	ATP20	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	TRUE
+Q12349	ATP14	104	Mitochondrial proton-transporting ATP synthase complex|2|17	TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE
