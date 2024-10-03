@@ -3,9 +3,9 @@ import os
 from var3d import struct_anno
 from var3d import pipeline
 
-working_path = '/scicore/home/schwede/pantol0000/lip_ms/FLiP'
+working_path = '.'
 data_path = os.path.join(working_path, 'data')
-jsons_path = os.path.join(data_path, 'jsons_new')
+jsons_path = os.path.join(data_path, 'jsons')
 ann_error_path = os.path.join(data_path, 'annotation_erros.txt')
 
 #acc_anno = struct_anno.AccessibilityAnno()

@@ -2,8 +2,6 @@ import math
 from sklearn.metrics import roc_curve, roc_auc_score
 from sklearn.metrics import precision_recall_fscore_support, precision_recall_curve, auc
 import matplotlib.pyplot as plt
-# from random import seed
-# from random import randint
 import random
 import pickle
 
@@ -34,29 +32,6 @@ def get_biggest_complex_distances(pep_results, mesure_type, keep_monomers=False)
     return mesures
 
 
-# def get_n_chains_complexes_distances(pep_results, mesure_type, n_c):
-#     mesures = dict()
-#     for pep_idx in pep_results.keys():
-#         best_s = None
-#         best_n_chains = 0
-#         #select the structure with most chians
-#         for s in pep_results[pep_idx]:
-#             n_chains = pep_results[pep_idx][s]['chains']
-#             if n_chains==n_c:
-#                 best_n_chains = n_chains
-#                 best_s = s
-#                 break
-        
-#         if best_n_chains!=n_c:
-#             continue
-        
-#         #get a random segment for now
-#         pdb = best_s.split('_')[2]
-#         mesures[pep_idx] = {'pdb':pdb, 'distance': pep_results[pep_idx][best_s][mesure_type][0]}       
-        
-#     return mesures
-
-
 
 def get_prediction_scores(peptides, mesures, cut=0):
     distances = list()
@@ -67,8 +42,6 @@ def get_prediction_scores(peptides, mesures, cut=0):
     protein = list()
     q_scores = list()
     
-    # mq = list()
-    # mq_scores = list()
 
     for idx in mesures.keys():
         dist = mesures[idx]['distance']
@@ -77,8 +50,6 @@ def get_prediction_scores(peptides, mesures, cut=0):
         q.append(peptides[idx].q)
         peptide_list.append(peptides[idx].peptide)
         protein.append(peptides[idx].protein)
-        #mq.append(peptides[idx].median_q)
-        #mq.append(peptides[idx].q)
 
         if dist <= cut:
             labels.append(+1)
@@ -89,8 +60,6 @@ def get_prediction_scores(peptides, mesures, cut=0):
             return
 
         q_scores.append(-math.log(peptides[idx].q, 2))
-        #mq_scores.append(-math.log(peptides[idx].median_q, 2))
-        #mq_scores.append(-math.log(peptides[idx].q, 2))
 
     return {'peptide' : peptide_list, 'protein': protein, 'distances': distances, 'labels':labels, 'q':q, 'q_scores':q_scores} #, 'mq':mq, 'mq_scores':mq_scores}
 
@@ -195,8 +164,6 @@ def get_best_complex_distances(pdb_distances, best_complexes, mesure):
             continue
         comp = best_complexes[pep_idx]
         pdb = comp.split('_')[2]
-        #print(pep_idx, comp)
-        #print(pdb_distances[pep_idx].keys())
         if comp not in pdb_distances[pep_idx].keys():
             continue
         mesures[pep_idx] = {'pdb':pdb, 'distance': pdb_distances[pep_idx][comp][mesure][0]}        
@@ -218,42 +185,9 @@ def get_complexes_lengths(complexes):
     return lengths
 
 
-# def big_best_complexes(complexes, clusters, lengths):
-#     b_c = dict()
-#     for p in complexes:
-#         l = lengths[p]
-#         best_complex = ''
-#         best_accuracy = -1
-#         for c in complexes[p]:
-#             norm = len(complexes[p][c])
-#             if (norm-l)>1 or (norm-l)<-1:
-#                 #print('skipping')
-#                 continue
-        
-#             trues = 0
-#             for i in complexes[p][c]:
-#                 if i:
-#                     trues+=1
-#             accuracy = trues/norm
-#             if accuracy>best_accuracy:
-#                 best_complex = c
-#                 best_accuracy = accuracy
-            
-#         b_c[p] = best_complex
-
-#     best_complexes = dict()
-#     for c in clusters.keys():
-#         if c not in b_c.keys():
-#             continue
-#         for idx in clusters[c]:
-#             best_complexes[idx] = b_c[c]  
-
-    
-#     return best_complexes
-
 
 ##############################################################################
-############################## RANDOM COMPLEXES #################################
+############################## RANDOM COMPLEXES ##############################
 ##############################################################################
 
 def get_random_complexes(complexes, clusters, seed=362718):
@@ -269,21 +203,6 @@ def get_random_complexes(complexes, clusters, seed=362718):
         for idx,c in enumerate(complexes[p]):
             if idx==random_idx:
                 selected_complexes[p] = c
-
-        # best_complex = ''
-        # best_accuracy = -1
-        # for c in complexes[p]:
-        #     norm = len(complexes[p][c])
-        #     trues = 0
-        #     for i in complexes[p][c]:
-        #         if i:
-        #             trues+=1
-        #     accuracy = trues/norm
-        #     if accuracy>best_accuracy:
-        #         best_complex = c
-        #         best_accuracy = accuracy
-            
-        # b_c[p] = best_complex  
 
     #sort the complexes according to the peptide id
     random_complexes = dict()

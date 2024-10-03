@@ -68,10 +68,8 @@ def load_peptides(data_path):
         for row in csv_reader:
             if skip==0:
                 skip=1
-                #print(row[0].split(';'))
                 continue
             peptides.append(Peptide(row[0].split(';')))
-            #print(row[0].split(';'))
 
     print('loaded {} peptides'.format(len(peptides)))
     
